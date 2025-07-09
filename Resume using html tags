@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1> <center> GOLLAPALLI SHIVATEJA</center> </h1>
+<h4><center> Mutharam,Peddapalli,Telangana,505184 </center></h4>
+<center ><u>+91 8790306983</u>  <u> shivatejagollapelli@gmail.com</u> </center><br>
+<h3> PROFESSIONAL SUMMARY</h3><hr>
+<p> Dynamic and results-driven engineering graduate with expertise in AI, machine learning, and software development.Adept at developing scalable and intelligent solutions, including AI-enabled phishing detection systems. Strong analytical and problem-solving skills with a passion for innovation and cybersecurity </p>
+<h3> EDUCATION </h3> <hr>
+<b><pre> Nalla Narasimha Reddy Education Society Hyderabad,Telangana                                                                                    2022-2025 </pre></b>
+<i><pre> B.Tech- Computer science and Engineering (current) CGPA-8.28                                                                               Hyderabad, Telagana</pre></i>
+<b><pre> KBR Engineering College,Bhongir,Telangana                                                                                                      2019-2022 </pre></b>
+<i><pre> Diploma- Civil Engineering- CGPA-8.3                                                                                                       Bhongir, Telagana</pre></i>
+<h3> PROJECTS</h3><hr>
+<pre><b>AI-ENABLE PHISHING DETECTION  </b>|<i>Python, TensorFlow, Scikit-learn</i>                                                                                    <b>2024</b></pre>
+<ul type="circle">
+<li>Developed a plugin leveraging machine learning algorithms to identify and prevent phishing attempts in real-time, enhancing cybersecurity measures for users and organizations.</li>
+<li> Integrated natural language processing (NLP) and pattern recognition techniques to detect suspicious language,unusual sender information, and other common phishing indicators.</li>
+<li>  Trained models on a large dataset of phishing and legitimate communications, achieving [X]precentage accuracy in distinguishing phishing attempts with minimal false positives.</li></ul>
+<pre><b>DIALOGUE SYSTEM FOR PERSONALIZED CUSTOMER SUPPORT</b>  |<i>Flask,Firebase-admin,Mysql-Connector</i>                                                            <b>2025</b></pre>
+<ul type="circle">
+<li> Built an AI-powered customer support chatbot using Flask, Sentence Transformers, and ChromaDB for context-aware, multi-turn conversations.</li>
+<li> Integrated Firebase Realtime Database and MySQL for real-time chat handling and personalized responses based on user history.</li>
+<li>  Enhanced customer experience by delivering intelligent, human-like replies while reducing manual support workload.</li></ul>
+<h3> TECHNICAL SKILLS</h3><hr> 
+<b>Languages:</b> C programming, Java ,Python <br>
+<b>Web Development:</b> SQL, HTML/CSS<br>
+<b>Developer Tools:</b>VS Code, PyCharm, Canva<br>
+<b>MS Office Tools:</b> Ms-Word, Ms-Excel, Ms-PowerPoint<br>
+<h3> SOFT SKILLS</h3><hr>
+<ul type="circle">
+<li>Time management</li>
+<li>Leadership skills</li>
+</ul>
+<h3> CERTIFICATIONS</h3><hr>
+<ul type="circle">
+ <li> DCA</li>
+ <li>Smart India Hackton</li>
+ <li>Revit</li>
+ <li>App Expo (RESQ Security app) at Techprogram in NNRG collage</li>
+ <li>GEN AI hackton in NNRG Collage</li>
+ <li>Paper Publication</li>
+</ul>
+<h3>EXTRACURRICULAR ACTIVITIES</h3><hr>
+<ul type="circle">
+<li>Participated in Hackton .2024</li>
+<li>NSS Coordinator</li>
+<li>Participated in prochams 2024</li>
+</ul>
+<br>
+</body>
+</html>
