@@ -1,0 +1,16 @@
+Feature	                            HTML                                        XHTML
+
+Full Form	        HyperText Markup Language	                   Extensible HyperText Markup Language
+
+Based On	        SGML (Standard Generalized Markup Language)	   XML (Extensible Markup Language)
+
+Tag Names	        Not case-sensitive (<Title>, <TITLE>)	           Must be lowercase (<title>)
+
+Closing Tags         Some tags can be unclosed (<br>, <img>)	           All tags must be properly closed (<br />, <img />)
+
+Attribute Quotes	Quotes are optional	                           All attribute values must be quoted
+
+Error Handling	        Flexible – minor errors are ignored	           Strict – errors can break the page
+
+Use Case	        Regular websites, fast development	           Strict applications, XML-based tools or systems
+
